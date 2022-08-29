@@ -12,7 +12,7 @@ Ich habe gelernt, wie man eine Weiterleitung mithilfe eines Commandlinks verwend
 ## Beschreibung
 
 Mit dem unten gezeigten Code ist es möglich, eine Weiterleitung zu einer anderen Seite zu erstellen. Anders als im gewöhnlichen HTML funktioniert der ein Link mit dem ```<a>```-Tag nicht, da die Seite sonst ohne JSF aufgerufen wird. Damit die Seite richtig lädt, muss man einen sogenannten Commandlink verwenden. Dieser Commandlink muss in einem ```<h:Form>``` verwendet werden, damit alles funktioniert.
-
+     
      <h:form> 
          <h:commandLink action="weiter.xhtml" value="Weiter">
      </h:form>
