@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/112411426/187266571-a66afe3f-663f-464f
 
 ## Verifikation
 
-Durch den Code und das Video ist ersichtlich, dass die Weiterleitung ohne Probleme funktioniert. Auch erkennt man, dass ich den Commandlink ohne Probleme verwenden kann.
+Durch den Code und das Video ist ersichtlich, dass die Weiterleitung ohne Probleme funktioniert. Auch erkennt man, dass ich den Commandlink problemlos verwenden kann.
 
 # Reflektion zum Arbeitsprozess
 
