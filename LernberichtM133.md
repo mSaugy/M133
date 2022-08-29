@@ -28,6 +28,7 @@ Durch den Code und das Video ist ersichtlich, dass die Weiterleitung ohne Proble
 # Reflektion zum Arbeitsprozess
 
 Während meiner Arbeit war ich sehr konzentriert und konnte ohne grössere Unterbrüche arbeiten. Des Weiteren habe ich die vorgegebenen Zeiten für die Pausen stets eingehalten.
-Leider habe ich sehr lange versucht, eine normale Weiterleitung mithilfe des ```<a>```-Tags zu erstellen. Schlussendlich habe ich dies auch geschafft, jedoch stellte sich später heraus, dass diese Methode zwar funktioniert, jedoch sehr unsicher ist.
 
-Da ich sehr lange gebraucht habe, bis ich den Commandlink gefunden habe, werde ich den Lehrer in Zukunft früher um Hilfe bitten.
+Leider habe ich sehr lange versucht, eine normale Weiterleitung mithilfe des ```<a>```-Tags zu erstellen. Schlussendlich habe ich dies auch geschafft.  Später stellte sich aber heraus, dass diese Methode zwar funktioniert, jedoch sehr unsicher ist.
+
+Da ich sehr lange gebraucht habe, bis ich den Commandlink entdeckt habe, werde ich den Lehrer in Zukunft früher um Hilfe bitten.
