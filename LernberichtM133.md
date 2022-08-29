@@ -11,25 +11,24 @@ Ich habe gelernt, wie man eine Weiterleitung mithilfe eines Commandlinks verwend
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Mit dem unten gezeigten Code ist es möglich eine Weiterleitung zu einer anderen Seite zu erstellen. Anders als im gewöhnlichen html funktioniert der typische Link mit dem ```<a>```-Tag nicht, da die Seite sonst ohne JSF aufgerufen wird. Damit die Seite richtig lädt, muss man einen sogenannten Commandlink verwenden. Dieser Commandlink muss in einem Form verwendet werden, damit alles funktioniert 
 
-Mit dem unten gezeigten Code ist es möglich eine Weiterleitung zu einer anderen Seite zu erstellen. Anders als im gewöhnlichen html funktioniert der typische "<a href=/"/">" Link nicht, da die Seite sonst ohne JSF aufgerufen wird. Damit die Seite richtig lädt, muss man einen sogenannten Commandlink verwenden
-
+     <h:form> 
+         <h:commandLink action="weiter.xhtml" value="Weiter">
+     </h:form>
   
-<h:commandLink action=/"weiter.xhtml/">Weiter</h:commandLink>
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
+https://user-images.githubusercontent.com/112411426/187266571-a66afe3f-663f-464f-941a-155accfb1c8f.mp4
+
 
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Durch den Code und das Video ist ersichtlich, dass die Weiterleitung ohne Probleme funktioniert. Desweiteren erkennt man, dass ich den Commandlink ohne Probleme verwenden kann.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Während meiner Arbeit war ich sehr konzentriert und konnte ohne grössere Unterbrüche arbeiten. Desweiteren habe ich die vorgegebenen Zeiten für die Pausen stehts eingehalten.
+Leider habe ich sehr lange probiert eine normale Weiterleitung mithilfe des ```<a>```-Tags zu erstellen. Schlussendlich habe ich dies auch geschaft, jedoch stellte sich später heraus, dass diese Methode zwar funktioniert, jedoch sehr unsicher ist.
 
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Da ich sehr lange gebraucht habe, bis ich den Commandlink gefunden habe, werde ich den Lehrer in Zukunft früher um Hilfe bitten.
