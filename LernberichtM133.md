@@ -13,10 +13,10 @@ Ich habe gelernt, wie man eine Weiterleitung mithilfe eines Commandlinks verwend
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-Mit dem unten gezeigten Code ist es möglich eine Weiterleitung zu einer anderen Seite zu erstellen. Anders als im gewöhnlichen html funktioniert der typische "<a href="">" Link nicht, da die Seite sonst ohne JSF aufgerufen wird. Damit die Seite richtig lädt, muss man einen sogenannten Commandlink verwenden
+Mit dem unten gezeigten Code ist es möglich eine Weiterleitung zu einer anderen Seite zu erstellen. Anders als im gewöhnlichen html funktioniert der typische "<a href=/"/">" Link nicht, da die Seite sonst ohne JSF aufgerufen wird. Damit die Seite richtig lädt, muss man einen sogenannten Commandlink verwenden
 
   
-<h:commandLink action="weiter.xhtml">Weiter</h:commandLink>
+<h:commandLink action=/"weiter.xhtml/">Weiter</h:commandLink>
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
